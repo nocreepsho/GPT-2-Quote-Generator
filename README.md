@@ -1,7 +1,21 @@
 
-To fine-tune your model using Google Colab go to: 
+# GPT-2 Fake Quote Generator
 
-[Step-by-step guide on how to train GPT-2 on books using Google Colab](https://towardsdatascience.com/step-by-step-guide-on-how-to-train-gpt-2-on-books-using-google-colab-b3c6fa15fef0?source=friends_link&sk=c97525bd641aea4b844874e4d445ba83)
+The GPT-2 model (345M) finetuned on a dataset of 500K quotes from books and movies. I also created a GUI in tkinter to interact with it.
+
+Unfortunately due to large size, I am not able to upload the trained model with checkpoints.
+You can train the model using the "GPT-2 Quote Gen.ipynb" colab notebook. I have provided all the instructions there.
+
+The Quotes dataset was taken from Kaggle - https://www.kaggle.com/manann/quotes-500k
+
+Once trained, you can download the repo offline and model offline and place all the checkpoints files in the models folder. To open the GUI, just run the GUI.py script.
+
+Thanks to Mohammad Ali Nassar for a very informative blog post on finetuning GPT-2
+
+To fine-tune your model using Google Colab go to:
+
+["Step-by-step guide on how to train GPT-2 on books using Google Colab"] (https://towardsdatascience.com/step-by-step-guide-on-how-to-train-gpt-2-on-books-using-google-colab-b3c6fa15fef0)
+
 
 # gpt-2
 
