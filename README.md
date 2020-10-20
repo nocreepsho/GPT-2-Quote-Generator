@@ -3,6 +3,8 @@
 
 The GPT-2 model (345M) finetuned on a dataset of 500K quotes from books and movies. I also created a GUI in tkinter to interact with it.
 
+![GUI-screenshot-1](quote-1.JPG)
+
 Unfortunately due to large size, I am not able to upload the trained model with checkpoints.
 You can train the model using the "GPT-2 Quote Gen.ipynb" colab notebook. I have provided all the instructions there.
 
