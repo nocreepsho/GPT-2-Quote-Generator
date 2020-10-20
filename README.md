@@ -8,7 +8,7 @@ You can train the model using the "GPT-2 Quote Gen.ipynb" colab notebook. I have
 
 The Quotes dataset was taken from Kaggle - https://www.kaggle.com/manann/quotes-500k
 
-Once trained, you can download the repo offline and model offline and place all the checkpoints files in the models folder. To open the GUI, just run the GUI.py script.
+Once trained, you can download the repo and model offline and place all the checkpoints files in the models folder. To open the GUI, just run the GUI.py script.
 
 Thanks to Mohammad Ali Nassar for a very informative blog post on finetuning GPT-2
 
