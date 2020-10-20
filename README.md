@@ -1,10 +1,12 @@
 
 # GPT-2 Fake Quote Generator
 
-The GPT-2 model (345M) finetuned on a dataset of 500K quotes from books and movies. I also created a GUI in tkinter to interact with it.
+### The GPT-2 model (345M) finetuned on a dataset of 500K quotes from books and movies. I also created a GUI in tkinter to interact with it.
 
 ![GUI-screenshot-1](quote-12.jpg)
+
 ![GUI-screenshot-2](quote-22.jpg)
+
 
 Unfortunately due to large size, I am not able to upload the trained model with checkpoints.
 You can train the model using the "GPT-2 Quote Gen.ipynb" colab notebook. I have provided all the instructions there.
